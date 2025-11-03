@@ -1,0 +1,30 @@
+
+# Ignorar entorno virtual
+venv/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Archivos temporales o de logs
+*.log
+*.tmp
+
+# Archivos de configuración de VSCode o IDE
+.vscode/
+.idea/
+
+# Archivos de prueba o caché
+*.mp4
+*.mp3
+*.wav
+*.srt
+
+# Otros posibles binarios
+*.exe
+*.dll
