@@ -6236,7 +6236,7 @@ El giro de Tuerca, el que en esta no se muere el negro...
 
 1560
 01:00:10,760 --> 01:00:15,760
-Este es el giro de Tuerca. Ahora lo vemos de su lado.
+Este es el giro de Tuerca. Ahora lo vemos de su lado...
 
 1561
 01:00:15,760 --> 01:00:17,760
